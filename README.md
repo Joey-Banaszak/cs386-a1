@@ -9,5 +9,7 @@ MyCarDriver is a state-of-the-art self driving car system, property of TotallyRe
 
 ## Developers
 **Izaac Molina**,
+
 *Gabriel Valentin*,
+
 Joey Banaszak
