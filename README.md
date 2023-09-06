@@ -8,7 +8,6 @@ MyCarDriver is a state-of-the-art self driving car system, property of TotallyRe
 ![pip logo](https://pypi.org/static/images/logo-small.95de8436.svg)
 
 ## Developers
-
-**Izaac Molina**
-*Gabriel Valentin*
+**Izaac Molina**,
+*Gabriel Valentin*,
 Joey Banaszak
