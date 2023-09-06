@@ -6,7 +6,7 @@ MyCarDriver is a state-of-the-art self driving car system, property of TotallyRe
 
 [pip](https://pypi.org/project/pip/) is required to install the system
 
-![pip logo](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![pip logo](https://assets.digitalocean.com/articles/alligator/boo.svg)
 ## Developers
 **Izaac Molina**
 
